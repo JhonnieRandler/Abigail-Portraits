@@ -7,10 +7,11 @@ namespace AbigailPortrait
     public class ModEntry : Mod, IAssetLoader
     {
         public override void Entry(IModHelper helper) {
-            Translate.Init(helper.Translation);
+            I18n.Init(helper.Translation);
             helper.Content.AssetEditors.Add(new EdnaldoPereira());
         }
 
+        // ignore everything below
         public bool CanLoad<T>(IAssetInfo asset)
         {
             return asset.AssetName.Equals("Portraits/Abigail");
