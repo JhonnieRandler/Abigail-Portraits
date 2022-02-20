@@ -1,0 +1,20 @@
+/home/brukob/github/mods/SMAPI-teste/AbigailPortrait/bin/Debug/net5.0/AbigailPortrait.deps.json
+/home/brukob/github/mods/SMAPI-teste/AbigailPortrait/bin/Debug/net5.0/AbigailPortrait.dll
+/home/brukob/github/mods/SMAPI-teste/AbigailPortrait/bin/Debug/net5.0/AbigailPortrait.pdb
+/home/brukob/github/mods/SMAPI-teste/AbigailPortrait/obj/Debug/net5.0/AbigailPortrait.csproj.AssemblyReference.cache
+/home/brukob/github/mods/SMAPI-teste/AbigailPortrait/obj/Debug/net5.0/AbigailPortrait.GeneratedMSBuildEditorConfig.editorconfig
+/home/brukob/github/mods/SMAPI-teste/AbigailPortrait/obj/Debug/net5.0/AbigailPortrait.AssemblyInfoInputs.cache
+/home/brukob/github/mods/SMAPI-teste/AbigailPortrait/obj/Debug/net5.0/AbigailPortrait.AssemblyInfo.cs
+/home/brukob/github/mods/SMAPI-teste/AbigailPortrait/obj/Debug/net5.0/AbigailPortrait.csproj.CoreCompileInputs.cache
+/home/brukob/github/mods/SMAPI-teste/AbigailPortrait/obj/Debug/net5.0/AbigailPortrait.dll
+/home/brukob/github/mods/SMAPI-teste/AbigailPortrait/obj/Debug/net5.0/AbigailPortrait.pdb
+D:\Bibliotecas\Documentos\Projetos Mods\mods\SMAPI-teste\AbigailPortrait\bin\Debug\net5.0\AbigailPortrait.deps.json
+D:\Bibliotecas\Documentos\Projetos Mods\mods\SMAPI-teste\AbigailPortrait\bin\Debug\net5.0\AbigailPortrait.dll
+D:\Bibliotecas\Documentos\Projetos Mods\mods\SMAPI-teste\AbigailPortrait\bin\Debug\net5.0\AbigailPortrait.pdb
+D:\Bibliotecas\Documentos\Projetos Mods\mods\SMAPI-teste\AbigailPortrait\obj\Debug\net5.0\AbigailPortrait.csproj.AssemblyReference.cache
+D:\Bibliotecas\Documentos\Projetos Mods\mods\SMAPI-teste\AbigailPortrait\obj\Debug\net5.0\AbigailPortrait.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bibliotecas\Documentos\Projetos Mods\mods\SMAPI-teste\AbigailPortrait\obj\Debug\net5.0\AbigailPortrait.AssemblyInfoInputs.cache
+D:\Bibliotecas\Documentos\Projetos Mods\mods\SMAPI-teste\AbigailPortrait\obj\Debug\net5.0\AbigailPortrait.AssemblyInfo.cs
+D:\Bibliotecas\Documentos\Projetos Mods\mods\SMAPI-teste\AbigailPortrait\obj\Debug\net5.0\AbigailPortrait.csproj.CoreCompileInputs.cache
+D:\Bibliotecas\Documentos\Projetos Mods\mods\SMAPI-teste\AbigailPortrait\obj\Debug\net5.0\AbigailPortrait.dll
+D:\Bibliotecas\Documentos\Projetos Mods\mods\SMAPI-teste\AbigailPortrait\obj\Debug\net5.0\AbigailPortrait.pdb

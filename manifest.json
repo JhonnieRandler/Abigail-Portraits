@@ -1,0 +1,10 @@
+{
+  "Name": "Abigail Portrait",
+  "Author": "Brukob",
+  "Version": "1.0.1",
+  "Description": "SMAPI Practice. Substitui retratos da Abigail",
+  "UniqueID": "Brukob.AbigailPortrait",
+  "EntryDll": "AbigailPortrait.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}

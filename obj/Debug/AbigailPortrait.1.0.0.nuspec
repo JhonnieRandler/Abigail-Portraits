@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AbigailPortrait</id>
+    <version>1.0.0</version>
+    <authors>AbigailPortrait</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="Pathoschild.Stardew.ModBuildConfig" version="4.0.0" exclude="Build,Analyzers" />
+        <dependency id="Pathoschild.Stardew.ModTranslationClassBuilder" version="2.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Bibliotecas\Documentos\Projetos Mods\mods\SMAPI-teste\AbigailPortrait\bin\Debug\net5.0\AbigailPortrait.dll" target="lib\net5.0\AbigailPortrait.dll" />
+  </files>
+</package>
